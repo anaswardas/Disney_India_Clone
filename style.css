@@ -1,0 +1,44 @@
+.nav-logo{
+   width: 100px;
+   height: 60px;
+}
+img{
+   transition: transform 0.3s ease-in;
+   
+}
+img:hover{
+transform: scale(1.03);
+ cursor: pointer;
+}
+.logo-2{
+   width: 100px;
+   height: 60px;
+}
+
+
+/* ........footer....... */
+
+
+.footer-img{
+   width: 75px;
+   height: 30px;
+}
+.footer-logo{
+   display: flex;
+   justify-content: center;
+}
+
+.footer-link{
+   font-size: 13px;
+}
+
+
+.footer-para{
+   text-align: center;
+}
+.footer-para p{
+   font-size: 10px;
+}
+.link-color{
+   color: black;
+}
